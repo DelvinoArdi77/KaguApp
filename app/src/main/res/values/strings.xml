@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KaguApp</string>
+    <string name="new_user_signup">Not have Account? <b>SignUp</b></string>
 </resources>
