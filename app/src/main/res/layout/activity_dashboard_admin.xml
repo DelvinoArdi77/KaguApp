@@ -65,6 +65,7 @@
         android:layout_below="@+id/searchEt"
         android:layout_above="@+id/bottomLl"
         android:layout_margin="5dp"
+        tools:listitem="@layout/row_category"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
 
     <LinearLayout

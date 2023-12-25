@@ -21,7 +21,8 @@
         android:layout_below="@id/iconIv"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
-        android:text="Welcome to KaguApp"
+        android:text="Welcome to KaguApp\nCreated by:\nDelvino Ardi\n1313621025"
+        android:textAlignment="center"
         android:textSize="16sp"
         android:textColor="@color/black"/>
     <Button
