@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">KaguApp</string>
+    <string name="db">https://kaguribook-default-rtdb.asia-southeast1.firebasedatabase.app/</string>
     <string name="new_user_signup">Not have Account? <b>SignUp</b></string>
 </resources>
