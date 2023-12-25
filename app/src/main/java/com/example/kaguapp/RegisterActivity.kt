@@ -87,15 +87,15 @@ class RegisterActivity : AppCompatActivity() {
 
         val timestamp = System.currentTimeMillis()
         val uid = firebaseAuth.uid
-        val hashMap: HashMap<String, Any> = HashMap()
-//        hashMap["uid"] = uid
+        val hashMap: HashMap<String, Any?> = HashMap()
+        hashMap["uid"] = uid
         hashMap["email"] = email
         hashMap["name"] = name
         hashMap["profileImage"] = ""
         hashMap["userType"] = "user"
         hashMap["timestamp"] = timestamp
 
-        val ref = FirebaseDatabase.getInstance().getReference("Users")
+        val ref = FirebaseDatabase.getInstance("https://kaguribook-default-rtdb.asia-southeast1.firebasedatabase.app/").getReference("Users")
         ref.child(uid!!)
             .setValue(hashMap)
             .addOnSuccessListener {
