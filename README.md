@@ -11,7 +11,7 @@ pdf, kita ingin menyimpannya agar terlihat rapi dan mudah dilihat.
 Berikut video demo dari aplikasinya: -
 
 Screenshot aplikasi:
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/86021518-56c6-440f-8278-a4feeac96e7f =250x250)
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/86021518-56c6-440f-8278-a4feeac96e7f)
 ![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/d458aba5-953f-45c2-a617-735f74937a3c)
 ![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/bd940c09-d80c-4a95-8273-55c2c75b2019)
 ![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/783353d1-7e43-4cf7-97ac-adf2e2e875e3)
