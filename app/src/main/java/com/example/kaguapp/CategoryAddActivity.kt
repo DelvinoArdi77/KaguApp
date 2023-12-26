@@ -61,6 +61,7 @@ class CategoryAddActivity : AppCompatActivity() {
             .addOnSuccessListener {
                 progressDialog.dismiss()
                 Toast.makeText(this, "Category added...", Toast.LENGTH_SHORT).show()
+                finish()
             }
             .addOnFailureListener {e->
                 progressDialog.dismiss()

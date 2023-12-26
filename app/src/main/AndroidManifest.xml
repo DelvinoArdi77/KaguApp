@@ -4,6 +4,7 @@
     package="com.example.kaguapp">
 
     <application
+        android:name=".MyApplication"
         android:allowBackup="true"
         android:icon="@drawable/logoapp"
         android:label="@string/app_name"
@@ -11,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Material3.Light.NoActionBar"
         tools:targetApi="31">
+        <activity
+            android:name=".PdfEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PdfListAdminActivity"
+            android:exported="false" />
         <activity
             android:name=".PdfAddActivity"
             android:exported="false" />

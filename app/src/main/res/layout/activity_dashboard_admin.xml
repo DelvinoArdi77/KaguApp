@@ -55,6 +55,7 @@
         android:background="@color/white"
         android:drawableStart="@drawable/ic_search_gray"
         android:hint="Search"
+        android:inputType="text"
         android:padding="10dp"
         android:textColorHint="@color/gray01"/>
 
