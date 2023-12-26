@@ -11,12 +11,12 @@ pdf, kita ingin menyimpannya agar terlihat rapi dan mudah dilihat.
 Berikut video demo dari aplikasinya: -
 
 Screenshot aplikasi:
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/86021518-56c6-440f-8278-a4feeac96e7f)
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/d458aba5-953f-45c2-a617-735f74937a3c)
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/bd940c09-d80c-4a95-8273-55c2c75b2019)
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/783353d1-7e43-4cf7-97ac-adf2e2e875e3)
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/e1c21f1a-cb51-4d6c-b29f-f8f2d39bdbb8)
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/b29b65de-bc48-4dd2-beaf-92b2e6576634)
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/8af25519-10c4-459d-9076-1bf5b8540eb2)
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/ff060a12-bf46-490e-bd77-67d3a27673b1)
-![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/78c03237-48a8-4d76-a821-84e229923410)
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/86021518-56c6-440f-8278-a4feeac96e7f){width=20px height=20px}
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/d458aba5-953f-45c2-a617-735f74937a3c){width=20px height=20px}
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/bd940c09-d80c-4a95-8273-55c2c75b2019){width=20px height=20px}
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/783353d1-7e43-4cf7-97ac-adf2e2e875e3){width=20px height=20px}
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/e1c21f1a-cb51-4d6c-b29f-f8f2d39bdbb8){width=20px height=20px}
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/b29b65de-bc48-4dd2-beaf-92b2e6576634){width=20px height=20px}
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/8af25519-10c4-459d-9076-1bf5b8540eb2){width=20px height=20px}
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/ff060a12-bf46-490e-bd77-67d3a27673b1){width=20px height=20px}
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/78c03237-48a8-4d76-a821-84e229923410){width=20px height=20px}
