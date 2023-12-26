@@ -20,3 +20,4 @@ Screenshot aplikasi:
 ![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/8af25519-10c4-459d-9076-1bf5b8540eb2)
 ![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/ff060a12-bf46-490e-bd77-67d3a27673b1)
 ![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/78c03237-48a8-4d76-a821-84e229923410)
+![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/e6275f29-fdd2-4541-8f29-eb1d422ccf24)
