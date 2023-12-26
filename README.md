@@ -8,7 +8,7 @@ KaguApp adalah sebuah aplikasi Android yang dikembangkan menggunakan bahasa pemr
 Setiap buku memiliki 3 atribut yaitu judul buku, deskripsi buku serta kategori buku. Sebagai contoh, saat kita mendownload sebuah buku berbasis
 pdf, kita ingin menyimpannya agar terlihat rapi dan mudah dilihat.
 
-Berikut video demo dari aplikasinya: [-](https://youtu.be/hhq0l8GFCEs?si=lvWRkM8xxe6E6r7B)
+Berikut video demo dari aplikasinya: https://youtu.be/hhq0l8GFCEs?si=lvWRkM8xxe6E6r7B
 
 Screenshot aplikasi:
 ![image](https://github.com/DelvinoArdi77/KaguApp/assets/94847865/86021518-56c6-440f-8278-a4feeac96e7f)
